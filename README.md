@@ -1,4 +1,4 @@
-#Coding challenge
+# Coding challenge
 
 This app was started using `create-react-app` and uses simulated data for a call to the Deliveroo API. You can view the structure of the API data in `fitzrovia.js`.
 
@@ -9,6 +9,15 @@ npm start
 ```
 Then navigate to `http://localhost:3000`.
 
+#### What it should look like
+
+Desktop
+
+![Desktop](https://user-images.githubusercontent.com/10425219/33157368-8a0f7dcc-cff9-11e7-873d-92854fd45e34.png)
+
+Mobile
+
+<img width="398" alt="mobile view" src="https://user-images.githubusercontent.com/10425219/33157440-f62ad1c8-cff9-11e7-93da-25c864bc59a8.png">
 
 #### Main tech used
 + react
