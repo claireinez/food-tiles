@@ -1,6 +1,6 @@
 # Coding challenge
 
-This app was started using `create-react-app` and uses simulated data for a call to the Deliveroo API. You can view the structure of the API data in `fitzrovia.js`.
+This app was started using `create-react-app` and uses simulated data for a call to the Deliveroo API. You can view the structure of the API data in `src/api/fitzrovia.js`.
 
 #### How to run
 ```bash
