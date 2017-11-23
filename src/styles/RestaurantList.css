@@ -1,0 +1,11 @@
+.restaurant-list {
+  text-align: center;
+  width: 100%;
+}
+
+.restaurant-list-number {
+  text-align: center;
+  font-size: 22px;
+  color: #2E3333;
+  font-weight: normal;
+}

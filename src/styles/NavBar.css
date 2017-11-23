@@ -1,0 +1,23 @@
+.nav-bar {
+  background-color: #FFFFFF;
+}
+
+.nav-bar-logo {
+  padding: 0 20px;
+  width: 160px;
+}
+
+.user-info {
+  float: right;
+  padding: 10px;
+}
+
+.user-avatar {
+  width: 30px;
+}
+
+.user-name {
+  color: #2E3333;
+  font-size: 16px;
+  padding: 0 20px;
+}

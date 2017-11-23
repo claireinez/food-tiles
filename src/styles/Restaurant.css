@@ -1,0 +1,29 @@
+.restaurant-thumbnail {
+  padding: 15px;
+  display: inline-block;
+  text-align: left;
+  max-width: 25%;
+  color: #2E3333;
+  font-weight: normal;
+}
+
+.restaurant-image {
+  max-width: 100%;
+}
+
+.restaurant-subtitle {
+  color: #626666;
+  display: inline;
+}
+
+@media (max-width: 1000px)  {
+  .restaurant-thumbnail {
+    max-width: 40%;
+  }
+}
+
+@media (max-width: 766px)  {
+  .restaurant-thumbnail {
+    max-width: 100%;
+  }
+}
